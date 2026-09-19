@@ -61,9 +61,9 @@ The table below summarizes leading commercial MDR services, sorted by company re
 
 While Managed Detection and Response is fundamentally a service layer, security teams can assemble powerful **in-house detection, threat hunting, and incident response stacks** using mature open-source projects. 
 
-The list below features open-source repositories sorted by GitHub stars in descending order.
+The list below features open-source repositories sorted by GitHub_Stars in descending order.
 
-| Repository 📦 | Star Count 🌟 | Primary Category 🔍 | Description & Use Case 🚀 |
+| Repository 📦 | Stars_Count 🌟 | Primary Category 🔍 | Description & Use Case 🚀 |
 | :--- | :--- | :--- | :--- |
 | **[osquery/osquery](https://github.com/osquery/osquery)** | <a href="https://github.com/osquery/osquery/stargazers"><img src="https://img.shields.io/github/stars/osquery/osquery?style=social&color=white" alt="osquery stars"/></a> | Endpoint Telemetry | SQL-powered operating system instrumentation framework for live endpoint visibility and auditing. |
 | **[wazuh/wazuh](https://github.com/wazuh/wazuh)** | <a href="https://github.com/wazuh/wazuh/stargazers"><img src="https://img.shields.io/github/stars/wazuh/wazuh?style=social&color=white" alt="wazuh stars"/></a> | Open-Source XDR / SIEM | Full-featured XDR platform providing log analysis, endpoint protection, FIM, and compliance monitoring. |
@@ -108,7 +108,7 @@ Contributions are welcome! Please follow these simple guidelines:
 
 1. Fork this repository.
 2. Add your suggested SaaS product or open-source tool to `README.md`.
-3. Provide accurate pricing, trial details, star badges, and factual descriptions.
+3. Provide accurate pricing, trial details, Stars_Badges, and factual descriptions.
 4. Open a Pull Request with a short overview of your additions.
 
 ---
